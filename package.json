@@ -1,0 +1,30 @@
+{
+  "name": "shadow-numbers",
+  "version": "0.0.1",
+  "description": "Human english to number object translator.",
+  "main": "webpack.config.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^1.12.14"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkTechnologies/shadow-numbers.git"
+  },
+  "keywords": [
+    "javascript",
+    "numbers",
+    "english",
+    "translate"
+  ],
+  "author": "Dark Technologies, Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DarkTechnologies/shadow-numbers/issues"
+  },
+  "homepage": "https://github.com/DarkTechnologies/shadow-numbers#readme"
+}
